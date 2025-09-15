@@ -1,0 +1,13 @@
+md5: ff102c2b285e65ffa1ef67addf532eaf
+frozen: true
+deps:
+- checksum: '"5b4d2653f9054a6fd7ddded26cd11a0ee2c71f53f521e759c8fcde037c6c5b7e"'
+  size: 534832
+  hash: md5
+  path: 
+    https://raw.githubusercontent.com/Jeppe-T-K/itu_sdse_2024/9b7b05cf2bd3551f7d723d6510b8fdd2a0df9b66/w06/resources/data/cleansed/coco_cropped.png
+outs:
+- md5: 724b29443437e416c203c8c9be6866c2
+  size: 534832
+  hash: md5
+  path: coco_edited_highres.jpeg
